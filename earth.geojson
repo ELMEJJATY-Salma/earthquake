@@ -1,0 +1,4 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Point","coordinates":[599132.3594999984,378638.2076999992]},"properties":{"Date_":"1560962164830","Time_":"1899-12-30T00:00:00.000Z","Lat":34.002,"Lon":-4.325,"Depth":39.3,"Mag":0,"Nst":5,"RMS":0.51,"Author":"CNRST:yah","OrigID":351923,"date":"01/01/2021","time":"17:10:30"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[748852.5808999985,175389.31069999933]},"properties":{"Date_":"1560960042110","Time_":"1899-12-30T00:00:00.000Z","Lat":32.145,"Lon":-2.76,"Depth":76.5,"Mag":0,"Nst":6,"RMS":0.29,"Author":"CNRST:elm","OrigID":353728,"date":"01/01/2021","time":"19:39:44"}}
+]}
